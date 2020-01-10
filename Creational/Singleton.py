@@ -2,6 +2,8 @@
     This File Include Small
     Example Of Singleton Pattern
     --------------------------
+    @description : A class of which only a single instance can exist
+    --------------------------
     @pattern Singleton
     @author sina
 """
